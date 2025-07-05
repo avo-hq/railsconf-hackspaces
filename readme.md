@@ -15,11 +15,22 @@ Some of our more popular open source projects are [avo](https://github.com/avo-h
 At Hack Spaces we are pretty open to any ideas you have.
 We can do work on specific projects, talk about open source, SaaS, dev-tools, development, or other cool topics you think we are covering.
 
+Some suggestions: Rails engines; asset management; Rails and JS integration; gem deployment tactics; product development; running a dev-tool SaaS; marketing for developers;
+
 We prepared a few hack spaces issues for us to work on.
 
 #### Avo
 
 - [ ] PDF field - https://github.com/avo-hq/avo/issues/3818 (Easy)
+- [ ] Boolean field to show indeterminate state when `nil` - https://github.com/avo-hq/avo/issues/3873 (Easy)
+- [ ] Unavatar field - https://github.com/avo-hq/avo/issues/2994 (Easy)
+- [ ] Add `:action_policy` authorization driver - https://github.com/avo-hq/avo/issues/1922 (Easy)
+- [ ] Stars field - https://github.com/avo-hq/avo/issues/1896 (Easy)
+
+- [ ] Add lightbox support for file field - https://github.com/avo-hq/avo/issues/1647 (Intermediate)
+- [ ] Allow multiple records attach - https://github.com/avo-hq/avo/issues/2116 (Intermediate)
+- [ ] Toggle off filters and search for `has_many` associations - https://github.com/avo-hq/avo/issues/2035 (Intermediate)
+- [ ] Add support for Active Record Encryption in fields - https://github.com/avo-hq/avo/issues/3959 (Intermediate)
 
 #### Marksmith
 
