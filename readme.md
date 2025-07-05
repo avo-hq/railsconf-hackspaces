@@ -21,12 +21,15 @@ We prepared a few hack spaces issues for us to work on.
 
 #### Avo
 
+##### Easy
+
 - [ ] PDF field - https://github.com/avo-hq/avo/issues/3818 (Easy)
 - [ ] Boolean field to show indeterminate state when `nil` - https://github.com/avo-hq/avo/issues/3873 (Easy)
 - [ ] Unavatar field - https://github.com/avo-hq/avo/issues/2994 (Easy)
 - [ ] Add `:action_policy` authorization driver - https://github.com/avo-hq/avo/issues/1922 (Easy)
 - [ ] Stars field - https://github.com/avo-hq/avo/issues/1896 (Easy)
 
+##### Intermediate
 
 - [ ] Add lightbox support for file field - https://github.com/avo-hq/avo/issues/1647 (Intermediate)
 - [ ] Allow multiple records attach - https://github.com/avo-hq/avo/issues/2116 (Intermediate)
