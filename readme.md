@@ -8,4 +8,4 @@ We develop commercial software but our roots are with open-source. We have a bun
 
 ### Open Source
 
-Some of our more popular open source projects are https://github.com/avo-hq/avo, https://github.com/avo-hq/marksmith, https://github.com/avo-hq/class_variants, https://github.com/avo-hq/stimulus-confetti, https://github.com/avo-hq/prop_initializer, and https://github.com/avo-hq/active_storage-blurhash
+Some of our more popular open source projects are [avo](https://github.com/avo-hq/avo), [marksmith](https://github.com/avo-hq/marksmith), [class_variants](https://github.com/avo-hq/class_variants), [stimulus-confetti](https://github.com/avo-hq/stimulus-confetti), [prop_initializer](https://github.com/avo-hq/prop_initializer) and [active_storage-blurhash](https://github.com/avo-hq/active_storage-blurhash).
