@@ -27,6 +27,7 @@ We prepared a few hack spaces issues for us to work on.
 - [ ] Add `:action_policy` authorization driver - https://github.com/avo-hq/avo/issues/1922 (Easy)
 - [ ] Stars field - https://github.com/avo-hq/avo/issues/1896 (Easy)
 
+
 - [ ] Add lightbox support for file field - https://github.com/avo-hq/avo/issues/1647 (Intermediate)
 - [ ] Allow multiple records attach - https://github.com/avo-hq/avo/issues/2116 (Intermediate)
 - [ ] Toggle off filters and search for `has_many` associations - https://github.com/avo-hq/avo/issues/2035 (Intermediate)
