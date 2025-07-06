@@ -62,3 +62,5 @@ We prepared a few hack spaces issues for us to work on.
 - [ ] Create a `cv` helper method - https://github.com/avo-hq/class_variants/issues/39 (Easy)
 
 #### Stimulus Confetti
+- [ ] Ability to trigger confetti from a JS event - https://github.com/avo-hq/stimulus-confetti/issues/4 (Easy)
+- [ ] Ability to render confetti on page load - https://github.com/avo-hq/stimulus-confetti/issues/3 (Easy)
