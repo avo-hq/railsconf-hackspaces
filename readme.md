@@ -33,6 +33,7 @@ We prepared a few hack spaces issues for us to work on.
 - [ ] Add `:action_policy` authorization driver - https://github.com/avo-hq/avo/issues/1922
 - [ ] Stars field - https://github.com/avo-hq/avo/issues/1896
 - [ ] Navigate to section helper - https://github.com/avo-hq/avo/issues/3060
+- [ ] Boolean field as toggle - https://github.com/avo-hq/avo/issues/3960
 
 ##### Intermediate
 
@@ -42,6 +43,7 @@ We prepared a few hack spaces issues for us to work on.
 - [ ] Add support for Active Record Encryption in fields - https://github.com/avo-hq/avo/issues/3959
 - [ ] Update list after "attach & attach another" action - https://github.com/avo-hq/avo/issues/3434
 - [ ] Pass all html options in the `html` option - https://github.com/avo-hq/avo/issues/3145
+- [ ] Attach files to record from the Media library - https://github.com/avo-hq/avo/issues/3776
 
 ##### Difficult
 
